@@ -1,2 +1,2 @@
-# final_autotest
-Final autotest project by Stepik. 
+# final_autotest_SELENIUM
+Final autotest project by Stepik. Selenium educational project.
